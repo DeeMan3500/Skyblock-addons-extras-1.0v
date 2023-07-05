@@ -28,4 +28,4 @@ type /bzflip to view Bazzar flip guide
 
 If the mod does not load, restart your game
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-Huge thanks to poodleoo, f511, and ifruits_ for helping me test this mod pack in the earliest stages of development.
+
