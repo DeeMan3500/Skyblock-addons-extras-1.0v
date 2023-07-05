@@ -1,4 +1,4 @@
-# Skyblock-Extras 2.5v
+# Skyblock-Extras 1.0v
 New version of skyblock extras that includes:
  
 Griffin burrow marker
